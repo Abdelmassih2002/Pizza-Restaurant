@@ -1,2 +1,2 @@
 # Pizza-Restaurant
-Open branch master to see the project
+<storng>Open branch master to see the project</storng>
